@@ -1,0 +1,17 @@
+D:\Visual Studio\source\obj\Debug\AppQLSV.csprojAssemblyReference.cache
+D:\Visual Studio\source\obj\Debug\AppQLSV.GUI.frmLopChiTiet.resources
+D:\Visual Studio\source\obj\Debug\AppQLSV.FormMain.resources
+D:\Visual Studio\source\obj\Debug\AppQLSV.Properties.Resources.resources
+D:\Visual Studio\source\obj\Debug\AppQLSV.csproj.GenerateResource.cache
+D:\Visual Studio\source\obj\Debug\AppQLSV.csproj.CoreCompileInputs.cache
+D:\Visual Studio\source\bin\Debug\AppQLSV.exe.config
+D:\Visual Studio\source\bin\Debug\AppQLSV.exe
+D:\Visual Studio\source\bin\Debug\AppQLSV.pdb
+D:\Visual Studio\source\bin\Debug\EntityFramework.dll
+D:\Visual Studio\source\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio\source\bin\Debug\EntityFramework.xml
+D:\Visual Studio\source\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio\source\obj\Debug\AppQLSV.csproj.CopyComplete
+D:\Visual Studio\source\obj\Debug\AppQLSV.exe
+D:\Visual Studio\source\obj\Debug\AppQLSV.pdb
+D:\Visual Studio\source\obj\Debug\AppQLSV.GUI.frmSinhVienChiTiet.resources

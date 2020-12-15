@@ -1,0 +1,32 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\bin\Debug\AppQLSV.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\bin\Debug\AppQLSV.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\bin\Debug\AppQLSV.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\obj\Debug\AppQLSV.Frmchitiet.resources
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\obj\Debug\AppQLSV.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\obj\Debug\AppQLSV.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\obj\Debug\AppQLSV.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\obj\Debug\AppQLSV.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\bin\Debug\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\bin\Debug\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\AppQLSV\AppQLSV\obj\Debug\AppQLSV.GUI.Formsinhvien.resources
+D:\Visual Studio\source\AppQLSV\AppQLSV\bin\Debug\AppQLSV.exe.config
+D:\Visual Studio\source\AppQLSV\AppQLSV\bin\Debug\AppQLSV.exe
+D:\Visual Studio\source\AppQLSV\AppQLSV\bin\Debug\AppQLSV.pdb
+D:\Visual Studio\source\AppQLSV\AppQLSV\bin\Debug\EntityFramework.dll
+D:\Visual Studio\source\AppQLSV\AppQLSV\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio\source\AppQLSV\AppQLSV\bin\Debug\EntityFramework.xml
+D:\Visual Studio\source\AppQLSV\AppQLSV\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio\source\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csprojAssemblyReference.cache
+D:\Visual Studio\source\AppQLSV\AppQLSV\obj\Debug\AppQLSV.GUI.Formsinhvien.resources
+D:\Visual Studio\source\AppQLSV\AppQLSV\obj\Debug\AppQLSV.Frmchitiet.resources
+D:\Visual Studio\source\AppQLSV\AppQLSV\obj\Debug\AppQLSV.Form1.resources
+D:\Visual Studio\source\AppQLSV\AppQLSV\obj\Debug\AppQLSV.Properties.Resources.resources
+D:\Visual Studio\source\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csproj.GenerateResource.cache
+D:\Visual Studio\source\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csproj.CoreCompileInputs.cache
+D:\Visual Studio\source\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csproj.CopyComplete
+D:\Visual Studio\source\AppQLSV\AppQLSV\obj\Debug\AppQLSV.exe
+D:\Visual Studio\source\AppQLSV\AppQLSV\obj\Debug\AppQLSV.pdb
